@@ -1,37 +1,42 @@
-## Welcome to GitHub Pages
+## Hi I'm Tontrakun Chandaeng, Welcome to My Github Profile 
 
-You can use the [editor on GitHub](https://github.com/Tontrakun/Project2-TU107/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+## Personal Information
+![260002320_317473776625229_7920483651604995409_n (1)](https://user-images.githubusercontent.com/93764124/143542968-9c927476-f526-4047-afa1-6a24974d9a48.jpg)
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
+My name is Tontrakul Chandaeng.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Born on 01/05/ 2001.  I am 20 years old.
 
-```markdown
-Syntax highlighted code block
+I am studying in the faculty of  Data Science and Innovation in Thammasat University.
 
-# Header 1
-## Header 2
-### Header 3
+🌱 I’m currently learning **Thammasat University.**
 
-- Bulleted
-- List
+📫 Email **tontrakun.cha@dome.tu.ac.th**
 
-1. Numbered
-2. List
+ phone: 0809517402
 
-**Bold** and _Italic_ and `Code` text
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
 
-[Link](url) and ![Image](src)
-```
 
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
+## Personality
+- Good Interpersonal
 
-### Jekyll Themes
+- Observant
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Tontrakun/Project2-TU107/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+- With careful attention to detail
 
-### Support or Contact
+- Love to learn and develop
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+## Works and other Information</h1>
+
+- 👨‍💻 My Projects **หนังสือไปไหน?** 
+
+     ![project Tu100 (1)](https://user-images.githubusercontent.com/93764124/143539104-6ae3cc4b-596d-4fae-8267-583e0f948aa9.png)
+
+
+- 👯 Favorite works **Used to participate in elephant fairs in Surin province 2 times in 2017,2018**
+
+     ![Favorite works (1)](https://user-images.githubusercontent.com/93764124/143538766-4a9d181d-bb33-44bc-8e91-7988cdb619c8.jpg)
+     
